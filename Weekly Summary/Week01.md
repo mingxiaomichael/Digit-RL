@@ -1,6 +1,6 @@
 # Week01 Sept.11 - Sept.17
 
-## 1. MoJoCo tutorial
+## 1. MuJoCo tutorial
 
 **mjModel**: contains the model description, i.e., all quantities which do not change over time.
 
