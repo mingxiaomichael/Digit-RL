@@ -60,7 +60,7 @@ Some details in PD Control: Stance compensation; q_motors (I use "observation.mo
 
 **Method:** Actor-Critic with PPO optimization;
 
-![image1](https://github.com/mingxiaomichael/Digit-RL/blob/main/Weekly%20Summary/_week02_step_controller.png)
+![image1](https://github.com/mingxiaomichael/Digit-RL/blob/main/Weekly%20Summary/_week02_control%20framework.png)
 
 **Input: (vanilla)** [12 + 12], consider only the legs, only the position. 12 q_motors and 12 q_motors_des from reference motion.
 
