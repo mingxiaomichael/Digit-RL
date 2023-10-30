@@ -6,11 +6,11 @@
 
 DDPG:
 
-![image1](https://github.com/mingxiaomichael/Digit-RL/blob/main/Weekly%20Summary/_week02_step_controller.png)
+![image1](https://github.com/mingxiaomichael/Digit-RL/blob/main/Weekly%20Summary/DDPG-average%20scores.png)
 
 method of SPG:
 
-![image2](https://github.com/mingxiaomichael/Digit-RL/blob/main/Weekly%20Summary/_week02_control%20framework.png)
+![image2](https://github.com/mingxiaomichael/Digit-RL/blob/main/Weekly%20Summary/SPG-average%20scores.png)
 
 ## 2. Environment model of Digit:
 
